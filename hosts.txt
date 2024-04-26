@@ -15,3 +15,4 @@ app.appsflyer.com
 c.office.com
 js.datadome.co
 s.youtube.com
+techcombank.com
