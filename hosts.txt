@@ -1,6 +1,6 @@
-//
-// HTTPS exclusions: other services with sensitive personal information
-//
+#
+# HTTPS exclusions: other services with sensitive personal information
+#
 api-js.datadome.co
 api.statsig.com
 gecko-sg.byteoversea.co
