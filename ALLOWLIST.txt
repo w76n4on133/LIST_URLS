@@ -2,18 +2,18 @@
 # HTTPS exclusions: other services with sensitive personal information
 #
 api-js.datadome.co
-api.statsig.com
+#api.statsig.com
 gecko-sg.byteoversea.co
-cdnt.netcoresmartech.com
-click.discord.com
-js.monitor.azure.com
-googletagmanager.com
-pagead2.googlesyndication.com
+#cdnt.netcoresmartech.com
+#click.discord.com
+#js.monitor.azure.com
+#googletagmanager.com
+#pagead2.googlesyndication.com
 imasdk.googleapis.com
-dd.garena.com
+#dd.garena.com
 app.appsflyer.com
 c.office.com
-js.datadome.co
+#js.datadome.co
 s.youtube.com
 techcombank.com
 cuutruyen.net
