@@ -160,3 +160,5 @@ cloud2.gsdk.proximabeta.com
 ff.imacdn.com
 sponsor.imacdn.com
 qcc.qualcomm.com
+ep2.facebook.com
+ep7.facebook.com
